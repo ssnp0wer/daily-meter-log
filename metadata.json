@@ -1,0 +1,5 @@
+{
+  "name": "Daily Meter Log",
+  "description": "A digital daily logbook for recording facility meter readings, temperatures, and usage data with AI-powered reporting.",
+  "requestFramePermissions": []
+}
